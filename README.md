@@ -13,12 +13,12 @@ Hello! I'm Mohamed Khalil Azzabi, an [Insat](https://insat.rnu.tn/) Student and 
 
 ## My Projects
 
-### 1)[EPISAFE Smart Band] in Parternship with [Orange Dgitial Center Tunisia](https://www.orangedigitalcenters.com/country/TN/home)
+### 1) EPISAFE Smart Band, in Parternship with [Orange Dgitial Center Tunisia](https://www.orangedigitalcenters.com/country/TN/home)
 Revolutionizing epilepsy management with edge AI and LSTM models, our integrated solution predicts seizures 10 minutes in advance using EDA sensors. It features a seamless ecosystem with a wearable band, mobile app, and web platform for real-time monitoring and alerting.
 
 ![image](https://github.com/khhaliil/khhaliil/assets/109654521/431b7d2b-c328-4f78-b25c-c53a2c382136)
 
-### 2)[Eurobot_24]
+### 2) Eurobot_24
 Eurobot 2024 Project: AI-Driven Robotic Navigation
 Overview
 In the Eurobot 2024 competition, our team is developing an autonomous robot focused on innovative AI and advanced navigation capabilities. This project presents a blend of mechanical engineering, software development, and artificial intelligence to tackle the unique challenges set by the competition.
@@ -42,7 +42,7 @@ In the Eurobot 2024 competition, our team is developing an autonomous robot focu
 
  <img src="https://github.com/khhaliil/khhaliil/assets/109654521/404a24bf-a235-4aa1-b71e-deb280238dc8" width="400" align="top"> <br/> 
 
-### 3)Project 2: [Avatario]
+### 3) Avatario
 Avatario: A mobile app blending AI-driven chatbot technology, personalized avatars, and educational games for child development. Utilizes RWKV language model, Python, and machine learning for performance analysis and parental insights. Repository includes source code, training datasets, and implementation guides.
 in this project I did the ChatBot part.
 
