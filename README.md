@@ -6,9 +6,7 @@ Hello! I'm Mohamed Khalil Azzabi, an [Insat](https://insat.rnu.tn/) Student and 
 👨‍💻 Full Name: [Mohamed Khalil Azzabi](https://insat.rnu.tn/) Student and Chairman of The [IEEE NPSS INSAT SBC](https://ieee-npss.org/) <br/>
 🔭 I'm currently working on [Eurobot](https://www.eurobot.org/) international competition with my team. <img src="https://github.com/khhaliil/khhaliil/assets/109654521/1f9cdbf3-1ab0-41f2-96df-9577a672da0f" width="50" align="top"> <br/>
 🌱 I’m currently learning Edge AI computing <img src="https://github.com/khhaliil/khhaliil/assets/109654521/997b7076-a6f5-4a5d-9770-d5512889c129" width="70" align="top"> and RNNs <img src="https://github.com/khhaliil/khhaliil/assets/109654521/55dbbb3a-aeef-4186-a42d-f84c82aa9c04" width="70" align="top">
-
 👯 I’m looking to collaborate on some AI-driven projects for Robotics and Aerospace
-
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khalil-azzabi-6915771bb/) | [Email](mailto:Mohamedkhalil.azzabi@insat.ucar.tn) 
 
 ## My Projects
@@ -22,7 +20,6 @@ Revolutionizing epilepsy management with edge AI and LSTM models, our integrated
 Eurobot 2024 Project: AI-Driven Robotic Navigation
 Overview
 In the Eurobot 2024 competition, our team is developing an autonomous robot focused on innovative AI and advanced navigation capabilities. This project presents a blend of mechanical engineering, software development, and artificial intelligence to tackle the unique challenges set by the competition.
-
 # Objectives
 -  Autonomous Navigation: Implementing state-of-the-art algorithms for pathfinding and obstacle avoidance to ensure efficient and accurate movement within the Eurobot arena.
 -  Task Automation: Programming the robot to perform tasks such as repotting plants, orienting solar panels, ensuring pollination, and managing energy resources autonomously.
@@ -39,8 +36,7 @@ In the Eurobot 2024 competition, our team is developing an autonomous robot focu
 -  Successfully implemented basic autonomous navigation and sensor integration.
 -  Developing machine learning models for enhanced decision-making and task performance.
 -  Experimenting with computer vision techniques for improved environmental interaction.
-
- <img src="https://github.com/khhaliil/khhaliil/assets/109654521/404a24bf-a235-4aa1-b71e-deb280238dc8" width="400" align="top"> <br/> 
+<img src="https://github.com/khhaliil/khhaliil/assets/109654521/404a24bf-a235-4aa1-b71e-deb280238dc8" width="400" align="top"> <br/> 
 
 ### 3) Avatario
 Avatario: A mobile app blending AI-driven chatbot technology, personalized avatars, and educational games for child development. Utilizes RWKV language model, Python, and machine learning for performance analysis and parental insights. Repository includes source code, training datasets, and implementation guides.
@@ -49,7 +45,5 @@ in this project I did the ChatBot part.
 ![ChatBot]([URL_to_project_2_image](https://github.com/khhaliil/AVATARIO/blob/main/assetss/chat.gif))
 
 ## Collaborations and Contributions
-
 I'm always open to collaborating on interesting projects and ideas. If you're interested in working together or contributing to any of my projects, feel free to reach out!
-
 Thank you for visiting my profile. Let's connect and create something amazing together!
