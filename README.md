@@ -13,7 +13,7 @@ Hello! I'm Mohamed Khalil Azzabi, an [Insat](https://insat.rnu.tn/) Student and 
 
 ### 1) EPISAFE Smart Band, in Parternship with [Orange Dgitial Center Tunisia](https://www.orangedigitalcenters.com/country/TN/home)
 Revolutionizing epilepsy management with edge AI and LSTM models, our integrated solution predicts seizures 10 minutes in advance using EDA sensors. It features a seamless ecosystem with a wearable band, mobile app, and web platform for real-time monitoring and alerting.
-![image](https://github.com/khhaliil/khhaliil/assets/109654521/431b7d2b-c328-4f78-b25c-c53a2c382136)
+<img src="https://github.com/khhaliil/khhaliil/assets/109654521/431b7d2b-c328-4f78-b25c-c53a2c382136" width="150">
 ### 2) Eurobot_24
 Eurobot 2024 Project: AI-Driven Robotic Navigation
 Overview
