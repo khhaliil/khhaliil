@@ -42,7 +42,7 @@ In the Eurobot 2024 competition, our team is developing an autonomous robot focu
 Avatario: A mobile app blending AI-driven chatbot technology, personalized avatars, and educational games for child development. Utilizes RWKV language model, Python, and machine learning for performance analysis and parental insights. Repository includes source code, training datasets, and implementation guides.
 in this project I did the ChatBot part.
 
-![ChatBot]([URL_to_project_2_image](https://github.com/khhaliil/AVATARIO/blob/main/assetss/chat.gif))
+![ChatBot]([<img src="https://github.com/khhaliil/khhaliil/assets/109654521/404a24bf-a235-4aa1-b71e-deb280238dc8" width="400" align="top"> <br/> ])
 
 ## Collaborations and Contributions
 I'm always open to collaborating on interesting projects and ideas. If you're interested in working together or contributing to any of my projects, feel free to reach out!
