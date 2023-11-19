@@ -6,7 +6,7 @@ Hello! I'm Mohamed Khalil Azzabi, an [Insat](https://insat.rnu.tn/) Student and 
 👨‍💻 Full Name: [Mohamed Khalil Azzabi](https://insat.rnu.tn/) Student and Chairman of The [IEEE NPSS INSAT SBC](https://ieee-npss.org/) <br/>
 🔭 I'm currently working on [Eurobot](https://www.eurobot.org/) international competition with my team. <img src="https://github.com/khhaliil/khhaliil/assets/109654521/1f9cdbf3-1ab0-41f2-96df-9577a672da0f" width="35" align="top"> <br/>
 🌱 I’m currently learning Edge AI computing <img src="https://github.com/khhaliil/khhaliil/assets/109654521/997b7076-a6f5-4a5d-9770-d5512889c129" width="40" align="top"> and RNNs <img src="https://github.com/khhaliil/khhaliil/assets/109654521/55dbbb3a-aeef-4186-a42d-f84c82aa9c04" width="40" align="top">
-👯 I’m looking to collaborate on some AI-driven projects for Robotics and Aerospace
+👯 I’m looking to collaborate on some AI-driven projects for Robotics and Aerospace <br/>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khalil-azzabi-6915771bb/) | [Email](mailto:Mohamedkhalil.azzabi@insat.ucar.tn) 
 
 ## My Projects
